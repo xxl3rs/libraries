@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-libraries/main/drawing/void/source.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xxl3rs/libraries/refs/heads/main/Void/Library.lua"))()
 
 local watermark = library:Watermark("watermark | 60 fps | v4.20 | dev")
 -- watermark:Set("Watermark Set")
@@ -571,3 +571,4 @@ end
 
 --library:Close()
 --library:Unload()
+
